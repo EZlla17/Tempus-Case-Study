@@ -1,0 +1,15 @@
+doctor,hospital,patient_volume,cancer_type,growth_rate
+Dr. Michael Smith,Northwest Cancer Center,480,lung cancer,7%
+Dr. Emily Lee,Lakeside Medical Group,360,breast cancer,5%
+Dr. David Chen,Metro Oncology Institute,600,lung cancer,8%
+Dr. Daniel Garcia,Midwest Oncology Associates,312,lung cancer,6%
+Dr. Olivia Brown,Pacific Cancer Institute,408,breast cancer,7%
+Dr. Priya Patel,Sunrise Health System,336,colorectal cancer,6%
+Dr. Robert Johnson,Valley Community Hospital,180,mixed tumors,3%
+Dr. Sarah Kim,East Coast Academic Medical Center,420,mixed tumors,6%
+Dr. Ethan Thompson,Riverside Medical Center,276,colorectal cancer,5%
+Dr. Luis Martinez,Central Hematology Center,264,AML / lymphoma,5%
+Dr. Hannah Nguyen,Women’s Oncology Institute,384,ovarian cancer,7%
+Dr. Sophia Rodriguez,Southside Oncology Clinic,228,mixed tumors,4%
+Dr. Benjamin Clark,Great Lakes Cancer Center,360,prostate cancer,6%
+Dr. James Wilson,Urology Cancer Specialists,300,prostate cancer,4%

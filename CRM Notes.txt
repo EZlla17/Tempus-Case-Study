@@ -1,0 +1,29 @@
+1. Dr. Michael Smith
+Concerned about sequencing turnaround time impacting therapy initiation. Requests a sub-10-day TAT guarantee before increasing testing volume for late-stage lung cancer patients.
+
+2. Dr. Emily Lee
+Requests head-to-head clinical utility data in breast cancer cohorts. Wants comparative evidence versus the current hospital genomic testing panel to present at an upcoming tumor board.
+
+3. Dr. David Chen
+Reports workflow friction due to lack of automated Epic integration. Requests validated “Results-to-EMR” auto-upload capability to eliminate manual pathology report entry.
+
+4. Dr. Priya Patel
+Requests patient-friendly genomic report summaries. Interested in shareable digital educational materials that can be delivered through the patient portal to explain sequencing results.
+
+5. Dr. Robert Johnson
+Concerned about reimbursement transparency for Medicare Advantage patients. Requests clear pre-test cost estimates and out-of-pocket maximum visibility before ordering tests.
+
+6. Dr. Sarah Kim
+Requests improved mobile usability for genomic results. Specifically interested in real-time push notifications for “Actionable Variants” accessible during hospital rounds.
+
+7. Dr. Luis Martinez
+Escalated billing accuracy issue related to recursive testing. Requests more reliable billing workflow and claims validation to reduce administrative burden.
+
+8. Dr. Benjamin Clark
+Interested in AI-driven clinical trial matching. Asked whether the Copilot can automatically flag relevant Phase I/II trials based on the patient’s molecular profile and location.
+
+9. Dr. James Wilson
+Requests access to de-identified genomic datasets for research. Interested in exportable cohort data for publication on rare GIST mutations (requires DUA).
+
+10. Dr. Aisha Rahman
+Dr. Rahman reported that the onboarding process for new residents is too complex. She requested a "one-pager" or a "cheat sheet" for the staff lounge to simplify the test ordering workflow and reduce specimen rejection rates.
